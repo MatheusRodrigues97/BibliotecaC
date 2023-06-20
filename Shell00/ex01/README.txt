@@ -1,0 +1,1 @@
+ Feita a criaçã ode arquivo com o comando :> e populado o conteudo com o comando echo > (atribuição), feito a alteração da data com o comando Touch e troca de permissoes com o comando chmod com valores 455 conforme requisitado
